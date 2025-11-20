@@ -1,0 +1,5 @@
+a = int(input("what is the value for a?"))
+b = int(input("what is the value for b?"))
+
+print = ("Okay. Lets solve for (a-b)+(a*b)")
+print = ("Your solution is: " + str(answer)")
