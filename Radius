@@ -1,0 +1,4 @@
+radius = input("Provide the radius of the circle.")
+radius = int radius
+area = 3.14*(radius*radius)
+print("The are of the circle is area.")
